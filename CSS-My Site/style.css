@@ -1,0 +1,115 @@
+/* background-color: #f5cad7; */
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #f5cad7;
+}
+
+.my-profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.my-profile p {
+    font-size: 18px;
+}
+
+.my-profile h3 {
+    font-size: 40px;
+    margin: 20px 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+.my-intro p {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.my-intro {
+    line-height: 35px;
+}
+
+.my-intro h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: black;
+}
+
+.top-container {
+    /* border:red 3px solid; */
+    padding: 300px 20px 335px 20px;
+    background-image: url("pinkcloud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.middle-1-container {
+    /* border:red 3px solid; */
+    padding: 80px 0px 70px 0px;
+}
+
+hr {
+    border-style: dotted;
+    border-width: 10px 0px 0px 0px;
+    width: 5%;
+    margin: 0px auto;
+    color: white;
+}
+
+.middle-2-container {
+    /* border: 3px solid black; */
+    padding: 40px 0px;
+}
+
+.skill {
+    /* border: 3px solid blue; */
+    margin: auto;
+    width: 40%;
+    text-align: left;
+    padding: 30px 0px 50px 0px;
+
+}
+
+.img-1 {
+    float: left;
+    margin-right: 15px;
+    width: 160px;
+    height: 160px;
+}
+
+.img-2 {
+    float: right;
+    margin-left: 15px;
+    width: 160px;
+    height: 160px;
+}
+
+.skill p {
+    font-size: 20px;
+}
+
+.my-skills h1 {
+    font-family: 'Sacramento', cursive;
+    color: black;
+    font-size: 50px;
+    margin: 15px 0px 10px 0px;
+}
+
+.bottom-container {
+    padding: 50px 0px 10px 0px;
+}
+
+.my-contact h1 {
+    font-family: 'Sacramento', cursive;
+    color: black;
+    font-size: 50px;
+    margin: 10px 0px;
+}
+
+.my-contact p {
+    font-size: 18px;
+}
